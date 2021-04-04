@@ -1,3 +1,8 @@
+#Tugas 3
+Nama : Nabilla
+NPM : 1184075
+Kelas : D4 Teknik Informatika 3A
+
 # `bayes`: A Naive-Bayes classifier for node.js
 
 
